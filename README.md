@@ -1,2 +1,4 @@
-# java_practice
-From 0 to Hero Java Practice
+#java_practice
+  java zero to Hero Java Practice
+>##Core
+>> FirstProgram
